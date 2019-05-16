@@ -1,5 +1,5 @@
-# Network-Info
-Simple menu bar utility to display network info to the user
+## Network-Info
+# Simple menu bar utility to display network info to the user
 
 *This is Mac OSX/macOS only.
 
