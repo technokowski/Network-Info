@@ -1,7 +1,7 @@
 ## Network-Info
 # Simple menu bar utility to display network info to the user
 
-*This is Mac OSX/macOS only.
+**This is Mac OSX/macOS only.
 
 ![](/assets/network_small.png)
 
