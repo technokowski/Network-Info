@@ -3,7 +3,7 @@
 
 *This is Mac OSX/macOS only.
 
-![](/assets/network_small.png)
+<img src='assets/network.png' width='400px'>
 
 This app sits in the menu bar and gives info about the computer to the user;
 Logged in user, Computer Name, (If applicable: Wifi IP, BSSID, ethernet IP)
