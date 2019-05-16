@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Technokowski 2019
+
 # Setting enviroment variables
 # BSSID is here instead of in the
 # logic because it looks better
